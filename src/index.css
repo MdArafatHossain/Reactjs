@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+ background-color: aqua;
+}
+
+.card {
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+}
